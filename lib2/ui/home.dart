@@ -1,8 +1,6 @@
-// 🟪 product_screen.dart
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../provider/provider.dart';
-import '../services/class_model.dart';
 
 class ProductScreen extends StatefulWidget {
   const ProductScreen({super.key});
